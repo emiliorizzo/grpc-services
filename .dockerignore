@@ -1,6 +1,0 @@
-.vscode
-.node-xmlhttprequest-*
-src/tmp
-tmp
-coverage
-.nyc_output
